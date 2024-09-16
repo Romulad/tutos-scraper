@@ -1,0 +1,1 @@
+FCC_NEWS_SPIDER_NAME = "fcc_news"
